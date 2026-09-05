@@ -1,0 +1,26 @@
+body{ 
+background-color: rgba(246, 138, 6, 0.074);
+}
+h2{
+   color: rgb(182, 16, 143);
+   font-family: cursive;
+   font-size: larger;
+   font-style: oblique;
+   font-weight: 200;
+}
+h3{color: rgb(182, 16, 143);
+   font-family: cursive;
+   font-size: larger;
+   font-style: oblique;
+   font-weight: 200;}
+   h1{text-align: center;
+    text-underline-offset: inherit;
+}
+a{
+    font-style: oblique;
+   text-overflow: ellipsis;
+   text-decoration-style: solid; 
+   color: darkslategrey;
+ filter: contrast(123);
+font-synthesis-style: unset;
+}
